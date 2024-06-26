@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "459d",
+      "email": "dzakwan@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "49d7",
+      "email": "dzakwan",
+      "password": "123"
+    },
+    {
+      "id": "5530",
+      "email": "dzakwan",
+      "password": "123"
+    }
+  ],
+  "alamat": [
+    {
+      "id": "930a",
+      "alamat": "Jl. Coresari 1, No 15"
+    }
+  ]
+}
