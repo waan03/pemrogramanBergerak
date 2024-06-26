@@ -11,3 +11,5 @@ Note: Make sure you have installed native code dependencies [here](https://react
     1. Press  `a`  to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
   # Masukan json server pada database:
     `npm i json-server`
+# Install Ngrok dan run 
+    `ngrok http 3000`
